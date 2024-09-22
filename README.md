@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/593db1dfb1675884f9f895ebe37fa63446444817d5371c9c83edeab3e554b1e7/68747470733a2f2f7777772e636f6e6365707473656174696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f4d61726b65742d50726f6772616d6d696e672d42616e6e65722e6a7067)](https://nedeer.io)
 <h1 align="center">Hi 👋, I'm NEDEER</h1>
 <h3 align="center">A passionate Ebedded Systemes from Tunisia</h3>
-<img align="right" alt="hello" widh="300" src="https://user-images.githubusercontent.com/23444642/99659283-a6f52500-2a86-11eb-9cbc-11479bc8d9f7.gif">
+<img align="right" alt="hello" widh="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedeer&label=Profile%20views&color=0e75b6&style=flat" alt="nedeer" /> </p>
 
