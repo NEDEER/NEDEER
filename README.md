@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Electonis**
 
-- 📫 How to reach me **bougossanader1s3@gmail.com**
+- 📫 How to reach me **mejryneder@gmail.com**
 
 - ⚡ Fun fact **Im a funny**
 
